@@ -1,0 +1,2 @@
+This is a file I opened to carry out an exercise on git.
+It has to do with building a remote repo and hosting same on GitHub.
